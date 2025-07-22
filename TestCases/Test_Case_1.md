@@ -24,7 +24,7 @@
 
 **Фактичний результат :** 
 
-![image.png](image.png)
+![Screenshot](../Screenshots/screenshot1.png)
 
 **Статус :** Pass ✅
 
