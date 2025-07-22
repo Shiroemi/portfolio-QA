@@ -24,7 +24,7 @@
 
 **Фактичний результат :** 
 
-![image.png](image Test-Case-1.png)
+![image.png](image.png)
 
 **Статус :** Pass ✅
 
